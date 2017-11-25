@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## ksaitoの日記
+
+Github pagesを使ってみました。
 
 You can use the [editor on GitHub](https://github.com/ksaito1125/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
